@@ -44,7 +44,10 @@ Test-Project/
 
 ### Writing Test Cases
 
-- Create functions in `index.js` that perform specific operations.
+- Create functions in `index.js` that perform specific operations with the use of:
+    - a High Order Function called a `forEach` to find the total sum of each element witin given array. 
+    - Second function called `map` to iterate through the entire array, multiply each element by 2, and return a new array with the updated values.
+
 - In `index.text.js`, write test cases to validate the output.
 - Run tests using node `index.test.js` or `mocha index.tests.js`.
 
