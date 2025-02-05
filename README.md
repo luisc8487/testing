@@ -1,5 +1,7 @@
 # Understanding Test Cases with Vanilla JS and MochaJS
 
+![alt text](testingRun.png)
+
 ### Overview
 
 This project is designed to help understand the fundamentals of implementing test cases using **Vanilla JavaScript** and **MochaJS**. The goal is to set up a basic test environment without directly using Mocha, instead running test cases manually using **Node.js**.
