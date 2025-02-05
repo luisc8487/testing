@@ -14,7 +14,7 @@ This project is designed to help understand the fundamentals of implementing tes
 
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Ensure you have Node.js installed.
+3. Ensure you have Node.js installed If not, download and install the latest version of [Node.js offical website](https://nodejs.org/en).
 4. Install Mocha globally by running:
 
    `npm install -g mocha `
